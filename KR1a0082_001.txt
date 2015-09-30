@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易集傳
-#+DATE: 2015-09-23 09:34:58
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:56:55.653496
+#+PROPERTY: ID KR1a0082
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一 
 <pb:KR1a0082_WYG_001-1a>¶
 欽定四庫全書¶
 　周易集𫝊卷一　　　　　元　龍仁夫　撰¶
@@ -434,4 +436,3 @@
 　(離目巽股之視之履固无恙也乾上九本有過亢之/憂與三為應反賴柔以濟剛故視履之間成其福祥)¶
 　(回首視三此/為大吉之占)¶
 　周易集𫝊卷一¶
-
